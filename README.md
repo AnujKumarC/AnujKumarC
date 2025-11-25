@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AnujKumarC&label=Profile%20views&color=0e75b6&style=flat" alt="AnujKumarC" />
+  <img src="[https://komarev.com/ghpvc/?username=AnujKumarC&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/premium-vector/profile-picture-african-american-person-flat-cartoon-style-minimalist-style_1099486-1.jpg?w=360)" alt="AnujKumarC" />
 </p>
 
 <p align="left">
